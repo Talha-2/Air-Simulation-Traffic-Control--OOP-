@@ -1,13 +1,13 @@
 
-# ✈️ Airport Surface Traffic Control System (ASTC)
+#  Airport Surface Traffic Control System (ASTC)
 
-## 📌 Overview
+## Overview
 The **Airport Surface Traffic Control (ASTC)** project is a **Java-based simulation** designed to model and manage **ground operations at airports**.  
 It simulates **aircraft movements**, **task scheduling**, **resource reservations**, and **shortest path calculations** between airport points, making it a practical platform for research and educational purposes.
 
 ---
 
-## 🚀 Features
+## Features
 - **Task Management**: Priority-based scheduling using a Task Engine with multi-threading.
 - **Aircraft Simulation**: Landing, taxiing, and parking actions.
 - **Ground Infrastructure**: Simulated **runways**, **taxiways**, and **gates** with reservation systems.
@@ -21,9 +21,9 @@ It simulates **aircraft movements**, **task scheduling**, **resource reservation
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
-### 📥 1. Clone the Repository
+###  1. Clone the Repository
 ```bash
 git clone https://github.com/your-username/Airport-Surface-Traffic-Control-System.git
 cd Airport-Surface-Traffic-Control-System
@@ -31,7 +31,7 @@ cd Airport-Surface-Traffic-Control-System
 
 ---
 
-### ☕ 2. Install Java
+###  2. Install Java
 
 Make sure **Java JDK 8+** is installed.
 Check your version:
@@ -51,7 +51,7 @@ If not installed, download it from: [Oracle Java Downloads](https://www.oracle.c
 
 ---
 
-### ▶️ 4. Run the Application
+###  4. Run the Application
 
 * Locate the `Main.java` file (or the main GUI entry point).
 * Run the program.
@@ -59,7 +59,7 @@ If not installed, download it from: [Oracle Java Downloads](https://www.oracle.c
 
 ---
 
-### 🔑 5. Default Login
+###  5. Default Login
 
 * **Username:** `admin` *(example — update if different)*
 * **Password:** `1234` *(example — update if different)*
@@ -102,14 +102,14 @@ ASTC/
 
 ---
 
-## 📊 Flow Chart
+## Flow Chart
 
 <img width="975" height="541" alt="image" src="https://github.com/user-attachments/assets/431168dd-a32a-4c79-98d6-4a8dacf1eec9" />
 
 
 ---
 
-## 📌 Future Enhancements
+##  Future Enhancements
 
 * Integration of **weather conditions** for realistic simulation.
 * Enhanced **aircraft movement algorithms**.
